@@ -1,6 +1,6 @@
 FROM devopsedu/webapp
 
-MAINTAINER Aravind Vasudevan
+MAINTAINER aravind@gmail.com
 
 RUN apt-get update -y
 
